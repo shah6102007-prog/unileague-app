@@ -1,0 +1,6 @@
+{
+  "name": "UniLeague",
+  "description": "منصة دوري المهارات الجامعي - تحديات، بطولات، ترتيب وإنجازات أكاديمية وتقنية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
